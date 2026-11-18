@@ -1,0 +1,1 @@
+use this code to execute the program [ uvicorn api:app --reload ]

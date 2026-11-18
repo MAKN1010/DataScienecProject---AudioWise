@@ -1,0 +1,10 @@
+{
+    "total_metadata_rows": 7860,
+    "valid_samples": 7860,
+    "failed_samples": 0,
+    "number_of_features": 273,
+    "real_samples": 2634,
+    "generated_samples": 5226,
+    "split_method": "GroupShuffleSplit using source_talk",
+    "random_state": 42
+}
